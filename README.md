@@ -29,3 +29,7 @@ https://detail.1688.com/offer/539911427224.html?spm=a2615.7691456.0.0.tWtNRh
 6，具有上电自检、欠压/过压、过流、堵转、霍尔相序检测等多重保护功能；
 
 7，支持有感无感无刷电机驱动。
+
+contact：
+qq群: 218193115
+www.seama.com.cn
