@@ -1,3 +1,4 @@
-Copy the lib files to arduino library.(C:\Users\Administrator\Documents\Arduino\libraries)
+Download the zip file and extend the files  to arduino library.(C:\Users\Administrator\Documents\Arduino\libraries)
+the program need the pwm and flextimer2 lib.
 
-复制lib文件到arduino的库文件夹里（C:\Users\Administrator\Documents\Arduino\libraries）
+下载压缩包并解压缩复制lib文件到arduino的库文件夹里（C:\Users\Administrator\Documents\Arduino\libraries）
