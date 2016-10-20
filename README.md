@@ -10,6 +10,10 @@ the project uses Arduino UNO( atmega328) as the basis for development, the contr
 
 4, serial communication 
 
+5，Voltage：12-48V
+
+6，Current：rated 10A / max 20A
+
 more：
 https://detail.1688.com/offer/539911427224.html?spm=a2615.7691456.0.0.tWtNRh
 
@@ -18,11 +22,11 @@ https://detail.1688.com/offer/539911427224.html?spm=a2615.7691456.0.0.tWtNRh
 
 1，主控MCU采用ATMEGA328;
 
-2，电路采用原装ST场效应管；
+2，电路采用原装ST场效应管,80V110A（STP110N8F6）；额定10A/最大20A
 
 3，原装IR作预驱；
 
-4，采用原装DC-DC降压芯片，从而确保宽范围的电源输入；
+4，采用原装DC-DC降压芯片，可在12-48V内工作；
 
 5，具有高压大电流、低导通内阻等特点；
 
