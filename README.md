@@ -15,7 +15,7 @@ the project uses Arduino UNO( atmega328) as the basis for development, the contr
 6，Current：rated 10A / max 20A
 
 more：
-https://detail.1688.com/offer/539911427224.html?spm=a2615.7691456.0.0.tWtNRh
+https://www.seama.com.cn
 
 本无刷电机驱动器采用开源硬件，经过自己的测试和验证，是学习无刷电机控制器的入门好教材
 特点：
